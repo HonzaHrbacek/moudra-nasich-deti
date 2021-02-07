@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Moje svoboda",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis est adipisci aspernatur quaerat nemo, fugiat a, necessitatibus quisquam sapiente repellendus, ut praesentium asperiores alias ullam aut incidunt nisi dolorum vitae. Modi, animi fugit, sunt est omnis porro id suscipit nihil tempora voluptatum odit nam culpa, ea aliquam ipsa aliquid beatae.",
+      "author": "Tomulka",
+      "id": 1
+    },
+    {
+      "title": "Pohádka o hodných dětěch",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis est adipisci aspernatur quaerat nemo, fugiat a, necessitatibus quisquam sapiente repellendus, ut praesentium asperiores alias ullam aut incidunt nisi dolorum vitae. Modi, animi fugit, sunt est omnis porro id suscipit nihil tempora voluptatum odit nam culpa, ea aliquam ipsa aliquid beatae.",
+      "author": "Emulka",
+      "id": 2
+    }
+  ]
+}
